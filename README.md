@@ -11,5 +11,5 @@ IMPORTANT REMARK: we use the model described in [2] rather than [1]. These model
 # Contact:
 pierrealexandre.mattei[at]parisdescartes.fr 
 
-http: //pamattei.github.io
+http://pamattei.github.io
 
