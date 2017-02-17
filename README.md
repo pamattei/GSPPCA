@@ -9,7 +9,7 @@ The relevant functions are provided in the GSPPCAfunctions.R file and a little d
 IMPORTANT REMARK: we use the model described in [2] rather than [1]. These models simply differ by the parametrization of alpha.
 
 # Contact:
-pierrealexandre.mattei[at]parisdescartes.fr 
+pierre-alexandre.mattei[at]parisdescartes.fr 
 
 http://pamattei.github.io
 
