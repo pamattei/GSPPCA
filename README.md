@@ -5,6 +5,7 @@ The relevant functions are provided in the GSPPCA.R file and a little demo is in
 # References: 
 
 [1] C. Bouveyron, P. Latouche and P.-A. Mattei, Bayesian Variable Selection for Globally Sparse Probabilistic PCA, Electronic Journal of Statistics, in press
+
 [2] P.-A. Mattei, C. Bouveyron and P. Latouche, Globally Sparse Probabilistic PCA, Proc. AISTATS 2016, pp. 976-984
 
 
