@@ -273,8 +273,9 @@ gsppca <- function (x,d="autoGCV",nit=200,alphainit="auto",sinit="auto",epsi=1e-
   # PCA on the selected variables
   outpca = prcomp(x[,vhat==1],retx = )
   loadings = matrix(0,ncol=d,nrow=p)
-  loadings[vhat==1,]<-outpca$rotation[1:d]
+  loadings[vhat==1,]<-outpca$rotation[,1:d]
   center = colMeans(x)
+  rownames(loadings) = colnames(x)
   
   if (numvar=="Occam") {
     return(list(l=l,vhat=vhat,d=d,qhat=qhat,u=u,loadings=loadings,scores=outpca$x[,1:d],center=center,alpha=alpha,s=s))}
