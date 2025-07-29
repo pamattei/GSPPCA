@@ -14,7 +14,7 @@ The relevant functions are provided in the GSPPCA.R file and a little demo is in
 IMPORTANT REMARK: we use the model described in [1] rather than [2]. These models simply differ by the parametrization of alpha.
 
 # Contact:
-pima[at]itu.dk
+pierre-alexandre.mattei[at]inria.fr
 
 http://pamattei.github.io
 
